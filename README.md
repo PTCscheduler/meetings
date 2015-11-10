@@ -1,6 +1,6 @@
 #Meetings
 
-A collection of meeting agendas and notes, so there's one place to go for information. And mainly github is a good place to store this info and markdown is a nice way to format notes.
+A collection of meeting agendas and notes, so there's one place to go for information. And mainly github is a good place to store this info and markdown is a nice way to format notes. Links below open in the same window, can't figure out target blank at the moment and tabling researching that for now.
 
 **November 5th**
 
